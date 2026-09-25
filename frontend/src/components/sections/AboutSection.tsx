@@ -45,7 +45,7 @@ export default function AboutSection() {
             <div>
               <p className="font-medium text-sm text-slate-900">Source Code</p>
               <p className="text-sm text-muted-foreground mt-1">
-                Project ini open source — repo bisa ditambahkan di sini nanti.
+                https://github.com/IlhamTessa13/phishing-detector
               </p>
             </div>
           </div>
