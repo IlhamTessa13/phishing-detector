@@ -40,7 +40,7 @@ const curlCommand = `curl -X POST https://web-phishing-datmin-production.up.rail
         <div className="text-center mb-6">
           <h2 className="text-2xl font-bold text-slate-900">API Test</h2>
           <p className="text-sm text-muted-foreground mt-1">
-            Coba endpoint API secara langsung — cocok untuk developer/integrasi
+            Coba endpoint API secara langsung 
           </p>
         </div>
 
